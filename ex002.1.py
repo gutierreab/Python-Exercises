@@ -1,7 +1,7 @@
-# Programa que executa uma frase de  "Boas Vindas".
+# How to print a 'Welcome' phrase in Python. 
 
-nome = input('Digite o seu nome: ')
+name = input('Enter your name: ')
 
-print('Seja bem vindo(a),', nome, '.')
+print('Welcome,', name, '.')
 
-# Criado por Amanda Borges Gutierre, em 04 de Agosto de 2022.
+# Created by Amanda Borges Gutierre, on August 4, 2022.
