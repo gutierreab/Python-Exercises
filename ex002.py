@@ -6,4 +6,4 @@ name = input('Enter your name: ')
 
 print('Welcome, \033[4;36;107m{}\033[m!'.format(name))
 
-# Created by Amanda Borges Gutierre, on August 4, 2022.
+# Created by Amanda Borges Gutierre, on August 4th, 2022.
