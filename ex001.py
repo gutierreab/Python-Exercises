@@ -7,4 +7,4 @@
 print('\33[1;36;40mHello, World!\33[m')
 
 # Criado por Amanda Borges Gutierre, em 11 de Julho de 2022.
-# Created by Amanda Borges Gutierre, em 11 de Julho de 2022.
+# Created by Amanda Borges Gutierre, on July 11th, 2022.
