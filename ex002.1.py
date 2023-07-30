@@ -4,4 +4,4 @@ name = input('Enter your name: ')
 
 print('Welcome,', name, '.')
 
-# Created by Amanda Borges Gutierre, on August 4, 2022.
+# Created by Amanda Borges Gutierre, on August 4th, 2022.
