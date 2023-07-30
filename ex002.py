@@ -1,9 +1,9 @@
-# Programa que executa uma frase de  "Boas Vindas", utilizando 'format', e fonte colorida.
+# How to print a 'Welcome' phrase in Python, using 'format' and colored font.
 
-# Fonte: Cor Azul, sublinhado em Branco.
+# Font: Color Blue, underlined in White.
 
-nome = input('Qual é o seu nome? ')
+name = input('Enter your name: ')
 
-print('Seja bem vindo(a), \033[4;36;107m{}\033[m!'.format(nome))
+print('Welcome, \033[4;36;107m{}\033[m!'.format(name))
 
-# Criado por Amanda Borges Gutierre, em 04 de Agosto de 2022.
+# Created by Amanda Borges Gutierre, on August 4, 2022.
